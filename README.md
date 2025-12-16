@@ -20,7 +20,7 @@ python main.py
 - **With Docker**:
 
 ```bash
-docker run -it --rm <image-name>
+docker run -it --rm ys659/final-project:latest
 ```
 
 # Testing
