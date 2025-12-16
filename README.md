@@ -1,3 +1,7 @@
+# Introduction
+
+This is the final project for IS 601 Python for Web API Development class. My project adds an additional calculation type--modulus--to the existing calcuator application.
+
 # Docker Image
 
 https://hub.docker.com/r/ys659/final-project
