@@ -14,9 +14,6 @@ https://hub.docker.com/r/ys659/final-project
 ```bash
 python main.py
 ```
-
-(or update this if the main script is different.)
-
 - **With Docker**:
 
 ```bash
