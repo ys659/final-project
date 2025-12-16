@@ -6,6 +6,23 @@ This is the final project for IS 601 Python for Web API Development class. My pr
 
 https://hub.docker.com/r/ys659/final-project
 
+
+# Running the Project
+
+- **Without Docker**:
+
+```bash
+python main.py
+```
+
+(or update this if the main script is different.)
+
+- **With Docker**:
+
+```bash
+docker run -it --rm <image-name>
+```
+
 # Testing
 
 ```
@@ -24,22 +41,6 @@ $ pytest tests/unit/
 
 # All tests
 $ pytest
-```
-
-# Running the Project
-
-- **Without Docker**:
-
-```bash
-python main.py
-```
-
-(or update this if the main script is different.)
-
-- **With Docker**:
-
-```bash
-docker run -it --rm <image-name>
 ```
 
 # Screenshots
