@@ -44,7 +44,7 @@ docker run -it --rm <image-name>
 
 # Screenshots
 
-## Dashboard
+## Homepage
 
 <img src="screenshots/1.png" width="80%">
 
