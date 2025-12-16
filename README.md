@@ -42,7 +42,31 @@ python main.py
 docker run -it --rm <image-name>
 ```
 
+# Screenshots
 
+## Dashboard
+
+<img src="screenshots/1.png" width="80%">
+
+## User Registration
+
+<img src="screenshots/2.png" width="80%">
+
+## Login page
+
+<img src="screenshots/3.png" width="80%">
+
+## Modulus operation
+
+<img src="screenshots/4.png" width="80%">
+
+## View calculation
+
+<img src="screenshots/5.png" width="80%">
+
+## Update calculation
+
+<img src="screenshots/6.png" width="80%">
 
 
 # Appendix
