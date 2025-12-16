@@ -43,7 +43,9 @@ docker run -it --rm <image-name>
 ```
 
 
-## Appendix
+
+
+# Appendix
 
 # 📦 Project Setup
 
